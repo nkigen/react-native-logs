@@ -462,6 +462,7 @@ const logger = { createLogger };
 
 export {
   logger,
+  logTyped,
   transportFunctionType,
   configLoggerType,
   consoleTransport,
